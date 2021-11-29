@@ -1,7 +1,7 @@
 
-const Titulo = () => {
+const Titulo = (props) => {
     return (
-        <h1>Meu segundo Projeto React do Zero</h1>
+        <h1>{props.children}</h1>
     )
 }
 

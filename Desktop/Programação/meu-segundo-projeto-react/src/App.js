@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
       <section>
-      <Titulo />
+      <Titulo>Meu segundo Projeto React do Zero</Titulo>
       <Dados />
       </section>
       </header>
