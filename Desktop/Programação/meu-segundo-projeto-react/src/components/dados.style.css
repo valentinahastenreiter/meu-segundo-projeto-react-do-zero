@@ -1,0 +1,24 @@
+.div-titulo {
+    font-size: 18px;
+
+}
+
+input {
+    width: 403px;
+    height: 42px;
+    left: 968px;
+    top: 13px;
+    font-size: 14px;
+    text-align: center;
+    
+    background: #FFFFFF;
+    border: 1px solid #BEBEBE;
+    box-sizing: border-box;
+    border-radius: 8px;
+
+}
+
+
+ul{
+    list-style-type: none;
+    }
